@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _strpbrk - finds string
  * @s: string to find stuff
@@ -21,4 +23,4 @@ char *_strpbrk(char *s, char *accept)
 		}
 	}
 	return (0);
-}
+m}
